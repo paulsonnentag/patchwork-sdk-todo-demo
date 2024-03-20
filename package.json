@@ -1,0 +1,16 @@
+{
+  "name": "patchwork-todo-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Paul Sonnentag <paul.sonnentag@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@automerge/automerge-repo": "^1.1.4",
+    "clsx": "^2.1.0",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.0"
+  }
+}
